@@ -7,11 +7,11 @@ public class Encapsulation2 {
        
         Encapsulation1 obj = new Encapsulation1();
 
-        // Set values using setters
+        
         obj.setName("Rudra");
-        obj.setAge(22);
+        obj.setAge(31);
 
-        // Display values
+        
         obj.displayInfo();
     }
 }
